@@ -36,6 +36,6 @@ list = [3,5,7,9,"New",11]
 
 # -------------------Comprehension list using For if condition-----------------
 
-marks = [i*i for i in range(20) if(i%2==0)]
+marks = [i for i in range(20) if(i%2==0)]
 print(marks)
 
