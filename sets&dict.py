@@ -35,4 +35,4 @@ dic = {
 print(dic.items())
 
 for key, value in dic.items():
-    print(f"The value of corrosponding to the key {key} is {value}")
+    print(f"The value of corrosponding to the keys {key} is {value}")
