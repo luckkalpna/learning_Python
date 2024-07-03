@@ -4,7 +4,7 @@
 
 # print("Hello tgis is an \nEscape sequence character")
 
-from name import welcome, aman        # import data from any other file
+from names import welcome, aman        # import data from any other file
 import math
 result = math.sqrt(4)   
 # print(result)
