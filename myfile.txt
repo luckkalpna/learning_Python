@@ -1,1 +1,4 @@
 Hello File HandlingHello World Hello WorldHey I am there Hey I am here
+This is read lines method
+I am learning python
+Todays monsoon is awesome
