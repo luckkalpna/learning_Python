@@ -8,6 +8,6 @@ class Person:
 
 a = Person()
 
-a.name = "Ravi"
+a.name = "Ravi Sharma"
 a.occ = "Tester"
 print(a.name, a.occ)
