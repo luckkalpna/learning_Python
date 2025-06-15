@@ -17,7 +17,26 @@ l1 = [1, 23, 34, 4345, 4, 9, 234]
 # l1.reverse()
 # l1.insert(3, 111) # Insert any value in between the list as per given index
 # l1.pop(2) # remove any value fron the list items
-print(l1.pop(2))
-print(l1)
+# print(l1.pop(2))
+# print(l1)
 
+fruits = []
+
+f1 = input("Enter fruit name here: ")
+fruits.append(f1)
+f2 = input("Enter fruit name here: ")
+fruits.append(f2)
+f3 = input("Enter fruit name here: ")
+fruits.append(f3)
+f4 = input("Enter fruit name here: ")
+fruits.append(f4)
+f5 = input("Enter fruit name here: ")
+fruits.append(f5)
+f6 = input("Enter fruit name here: ")
+fruits.append(f6)
+f7 = input("Enter fruit name here: ")
+fruits.append(f7)
+
+fruits.sort()
+# print(fruits)
 
